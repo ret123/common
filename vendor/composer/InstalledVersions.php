@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '666d79cf76c036887e1a8c879688dd268bc632ac',
+    'reference' => 'a2ccf51069f4290f75c0cf274c2f67c54ac668ad',
     'name' => 'ret/common',
   ),
   'versions' => 
@@ -437,7 +437,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '666d79cf76c036887e1a8c879688dd268bc632ac',
+      'reference' => 'a2ccf51069f4290f75c0cf274c2f67c54ac668ad',
     ),
     'rhumsaa/uuid' => 
     array (
