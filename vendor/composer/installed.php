@@ -1,13 +1,13 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'rathish/common',
+    'reference' => '666d79cf76c036887e1a8c879688dd268bc632ac',
+    'name' => 'ret/common',
   ),
   'versions' => 
   array (
@@ -376,8 +376,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -407,14 +407,14 @@
       ),
       'reference' => 'cd4032040a750077205918c86049aa0f43d22947',
     ),
-    'rathish/common' => 
+    'ret/common' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '666d79cf76c036887e1a8c879688dd268bc632ac',
     ),
     'rhumsaa/uuid' => 
     array (
