@@ -1,0 +1,13 @@
+{
+    "name": "rathish/common",
+    "description": "Package for microservices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "ret123",
+        "email": "rathish83@gmail.com"
+    }],
+    "require": {
+        "laravel/framework": "^7.0"
+    }
+}
